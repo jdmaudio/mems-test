@@ -62,7 +62,7 @@ def main():
     print(sd.query_devices())
 
     sample_rate = 48000
-    device = 3
+    device = 32
     channels = 2
     N = 4096 * 4
 

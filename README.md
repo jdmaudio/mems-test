@@ -9,6 +9,7 @@
 - Outdoors exposure: The device has to operate outdoors for long periods of time during which it will be exposed to winds and rains. Therefore, it requires effective protection against adverse atmospheric conditions.
 
 
+
 ###
 sounddevice
 matplotlib
@@ -24,3 +25,15 @@ Source localisation
 http://www.diva-portal.org/smash/get/diva2:724272/FULLTEXT01.pdf
 
 
+- Design of MEMS microphone protective membranes for continuous outdoor applications
+https://www.sciencedirect.com/science/article/abs/pii/S0003682X21003984
+
+- Uncertainties of the frequency response of wet microphone windscreens
+https://www.sciencedirect.com/science/article/abs/pii/S0003682X13002405
+
+- On the ability of consumer electronics microphones for environmental noise monitoring
+https://www.researchgate.net/publication/49682953_On_the_ability_of_consumer_electronics_microphones_for_environmental_noise_monitoring 
+
+- Some good supporting docs for mic choice:
+https://www.infineon.com/dgdl/Infineon-AN547_Why%20you%20need%20high%20performance%20ultra-high%20SNR%20microphones%20-AN-v01_01-EN.pdf?fileId=5546d4626102d35a01612d1e2afd6ad3
+https://www.infineon.com/dgdl/Infineon-EETE_June_Cover+CoverStory_MEMSMicro_final_plus_cover-Article-v01_00-EN.pdf?fileId=8ac78c8c81ae03fc0181f6f7ce302b4c
